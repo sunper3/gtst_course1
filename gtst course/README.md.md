@@ -1,0 +1,1 @@
+this is note written while taking the Gee tech security tester course.
